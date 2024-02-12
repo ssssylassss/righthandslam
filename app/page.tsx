@@ -14,9 +14,6 @@ export default function Home() {
         <Nav />
       </header>
       <Hero />
-      {/* <div className="z-10 justify-center items-center font-mono text-sm lg:flex">
-        <Team />
-      </div> */}
       <Social />
       <Companies />
       <Newsletter />
