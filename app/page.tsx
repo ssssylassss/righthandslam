@@ -4,6 +4,8 @@ import Team from "@/components/team";
 import Hero from "@/components/hero";
 import Footer from "@/components/footer";
 import Social from "@/components/social";
+import Companies from "@/components/companies";
+import Newsletter from "@/components/newsletter";
 
 export default function Home() {
   return (
@@ -16,6 +18,8 @@ export default function Home() {
         <Team />
       </div> */}
       <Social />
+      <Companies />
+      <Newsletter />
       <Footer />
     </main>
   );
