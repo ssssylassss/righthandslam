@@ -16,10 +16,10 @@ export default function footer() {
                             <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
                             <ul className="text-gray-800 dark:text-gray-800">
                                 <li className="mb-4">
-                                    <a href="#" className="hover:underline">Flowbite</a>
+                                    <a href="#" className="hover:underline">Website SEO Checkup Tool</a>
                                 </li>
                                 <li>
-                                    <a href="#" className="hover:underline">Tailwind CSS</a>
+                                    <a href="#" className="hover:underline">Plans</a>
                                 </li>
                             </ul>
                         </div>
@@ -27,10 +27,10 @@ export default function footer() {
                             <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Follow us</h2>
                             <ul className="text-gray-800 dark:text-gray-400">
                                 <li className="mb-4">
-                                    <a href="#" className="hover:underline ">Github</a>
+                                    <a href="#" className="hover:underline ">Facebook</a>
                                 </li>
                                 <li>
-                                    <a href="#" className="hover:underline">Discord</a>
+                                    <a href="#" className="hover:underline">Twitter</a>
                                 </li>
                             </ul>
                         </div>
